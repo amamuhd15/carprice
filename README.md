@@ -1,9 +1,3 @@
-# carprice
-Sure! Here is a clean, well-structured **README.md** you can use for your Car Price Prediction App.
-I kept it simple, clear, and professional — suitable for a school project or GitHub.
-
----
-
 # **Car Price Prediction App – README**
 
 ## **Overview**
